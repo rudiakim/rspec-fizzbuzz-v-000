@@ -11,9 +11,3 @@ else (int % 5) && (int % 3) == 0
 
 end
 end
-
-
-fizzbuzz(3)
-fizzbuzz(5)
-fizzbuzz(15)
-fizzbuzz(4)
